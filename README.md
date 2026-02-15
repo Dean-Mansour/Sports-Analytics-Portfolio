@@ -13,3 +13,11 @@ Goal: build practical decision tools and modeling foundations for front office a
 **How to run:**
 ```bash
 python Month1/scripts/Fourth_Down_Helper.py
+Example OutPut:
+--- Situation Summary ---
+4th & 2 at the 55 yard line
+Score Difference: -4 pts | Q4 3:00
+
+Recommendation: Go for it!
+Reason: Time running out in the game...
+
