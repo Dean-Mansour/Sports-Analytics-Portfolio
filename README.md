@@ -12,7 +12,8 @@ Goal: build practical decision tools and modeling foundations for front office a
 **Skills used:** Python fundamentals, input/output, control flow (`if/elif/else`), boolean logic  
 **How to run:**
 ```bash
-python Month1/scripts/Fourth_Down_Helper.py
+python Month1/projects/4th-down-decision-helper/Fourth_Down_Helper.py
+
 Example OutPut:
 --- Situation Summary ---
 4th & 2 at the 55 yard line
